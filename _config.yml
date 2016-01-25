@@ -1,19 +1,4 @@
-name: People Are My Business
-favicon: null
-layout_spectrum: 0.20930130453780293
-typography_spectrum: 0.49
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
     - '#ffffff'
@@ -23,6 +8,11 @@ color:
     - '#ce7378'
   brandStrength: 0.3125
   lightness: 0.1979990324471146
-  saturation: 0.125
   rhythmicContrast: 0.6080228493083268
+  saturation: 0.125
+cta: {}
+layout_spectrum: 0.209301
+name: People Are My Business
+opengraph: {}
 purpose: []
+typography_spectrum: 0.49
